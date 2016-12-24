@@ -1,0 +1,36 @@
+{
+  "name": "login",
+  "description": "login",
+  "main": "index.js",
+  "authors": [
+    {
+      "name": "janki",
+      "email": "janki.c@productivet.com"
+    }
+  ],
+  "license": "ISC",
+  "moduleType": [
+    "node"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.9",
+    "angular-ui-router": "^0.3.2",
+    "angular-resource": "^1.5.9",
+    "pdfmake": "^0.1.20",
+    "signature_pad": "^1.5.3",
+    "ng-signature-pad": "*",
+    "angular-bootstrap": "^2.3.0",
+    "restangular": "^1.5.2",
+    "ngSweetAlert": "angular-sweetalert#^1.1.2",
+    "angularjs-datepicker": "^2.1.7",
+    "angularUtils-pagination": "angular-utils-pagination#^0.11.1"
+  }
+}

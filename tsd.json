@@ -1,0 +1,42 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "express/express.d.ts": {
+      "commit": "191bc9e02d72d02c6c95bbb6cf5ebd1474a49a51"
+    },
+    "serve-static/serve-static.d.ts": {
+      "commit": "191bc9e02d72d02c6c95bbb6cf5ebd1474a49a51"
+    },
+    "express-serve-static-core/express-serve-static-core.d.ts": {
+      "commit": "191bc9e02d72d02c6c95bbb6cf5ebd1474a49a51"
+    },
+    "mime/mime.d.ts": {
+      "commit": "191bc9e02d72d02c6c95bbb6cf5ebd1474a49a51"
+    },
+    "node/node.d.ts": {
+      "commit": "191bc9e02d72d02c6c95bbb6cf5ebd1474a49a51"
+    },
+    "mongodb/mongodb.d.ts": {
+      "commit": "191bc9e02d72d02c6c95bbb6cf5ebd1474a49a51"
+    },
+    "mongoose/mongoose.d.ts": {
+      "commit": "191bc9e02d72d02c6c95bbb6cf5ebd1474a49a51"
+    },
+    "sequelize/sequelize.d.ts": {
+      "commit": "191bc9e02d72d02c6c95bbb6cf5ebd1474a49a51"
+    },
+    "bluebird/bluebird-2.0.d.ts": {
+      "commit": "191bc9e02d72d02c6c95bbb6cf5ebd1474a49a51"
+    },
+    "validator/validator.d.ts": {
+      "commit": "191bc9e02d72d02c6c95bbb6cf5ebd1474a49a51"
+    },
+    "lodash/lodash.d.ts": {
+      "commit": "191bc9e02d72d02c6c95bbb6cf5ebd1474a49a51"
+    }
+  }
+}
